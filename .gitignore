@@ -11,6 +11,10 @@
 *~
 *#
 *.swp
+*.xise
+*.gise
+*.xst
+*.prj
 *.ini
 *.html
 *.vhi
